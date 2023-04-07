@@ -5,4 +5,4 @@
 
 # Credits
 Models, Textures - forum.kerbalspaceprogram.com user "Lack"    
-Positioning in this version - forums.kerbalspaceprogram.com "AeroSpacer", based on the original work by "Lack"
+Positioning in this version - forums.kerbalspaceprogram.com user "AeroSpacer", based on the original work by "Lack"
